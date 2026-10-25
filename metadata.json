@@ -1,0 +1,6 @@
+{
+  "name": "AuraDL - Modern Media Downloader",
+  "description": "A modern, responsive media downloader and stream inspector supporting MP4/MP3 format conversion, open media sources, and English/Arabic RTL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
